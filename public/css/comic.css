@@ -1,0 +1,33 @@
+.fa-trash-alt {
+  color: red;
+}
+
+.fa-trash-alt:hover {
+  color: blue;
+}
+
+.fa-edit {
+  color: orange;
+}
+
+.fa-edit:hover {
+  color: blue;
+}
+
+.fa-info-circle {
+  color: green;
+}
+.fa-info-circle:hover {
+  color: blue;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+}
+.fa-plus-circle {
+  color: lightblue;
+}
+.fa-plus-circle:hover {
+  color: blue;
+}
