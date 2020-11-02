@@ -1,0 +1,18 @@
+
+MIGRATE: 
+
+- php spark migrate:create orang untuk membuat class migrasi 
+- sedangkan php spark migrate untuk membuat tabel
+
+SEED 
+
+- php spark db:seed OrangSeeder untuk insert data kedalam database
+
+FAKER
+
+- composer require fzaninotto/faker
+
+  $faker = \Faker\Factory::create();
+  Faker digunakan untuk upload data ke dalam database dengan format tergantung negara (digunakan untuk data dummy)
+
+
